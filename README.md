@@ -1,4 +1,4 @@
-## Hi! I'm Pechi 👋
+## Hi! I'm Peiqi Liu 👋
 
 <!--
 **pechistudy/pechistudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
