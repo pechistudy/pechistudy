@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a Master's student in BUAA
+- 🔭 I’m currently a Master's student in BUAA.
 
